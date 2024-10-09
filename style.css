@@ -28,6 +28,9 @@ main {
   display: grid;
   grid-template-columns: 1fr 5fr;
 }
+main section{
+  overflow: hidden;
+}
 main .content {
   padding: 20px;
 }
